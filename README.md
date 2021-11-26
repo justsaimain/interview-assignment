@@ -1,6 +1,4 @@
-# interview-assignment
-
-## Interview Assignment from Venus Lab
+# Interview Assignment from Venus Lab
 
 ---
 
