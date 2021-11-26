@@ -8,7 +8,6 @@ There are two files for this answer. `index.html and style.css`
 
 ![Venus Lab Website HTML/CSS Test](/src/venus_lab.png)
 
----
 
 ### Question 2 : Build a robot which walks in 2-dimensional plane (X,Y coordinate)
 
