@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+
+body {
+    width: 1500px;
+    margin: 50px auto;
+    font-family: "Roboto", sans-serif;
+}
+
+.heading {
+    margin: 0;
+    font-size: 40px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.sub-heading {
+    margin: 0;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.main-title {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.card {
+    border-radius: 5px;
+    display: flex;
+    border: 1px solid rgb(202, 202, 202);
+    box-shadow: 5px 5px 15px 1px rgba(0, 0, 0, 0.21);
+    margin-bottom: 20px;
+}
+
+.post-img {
+    width: 280px;
+}
+
+.content-div {
+    flex: 5;
+    margin: 10px 30px;
+}
+
+.post-title {
+    font-size: 23px;
+    font-weight: 400;
+    text-decoration: none;
+    color: #333;
+}
+
+.post-body {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+
+.post-date {
+    display: flex;
+    align-items: center;
+    font-style: italic;
+    font-size: 14px;
+    color: rgb(70, 70, 70);
+}
+
+.author-div {
+    border-left: 2px solid rgb(196, 196, 196);
+    padding: 10px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.author-detail {
+    text-align: center;
+    font-size: 14px;
+}
+
+.avatar-img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.author-name {
+    color: rgb(245, 73, 73);
+    margin-bottom: 0;
+}
+
+.author-type {
+    margin: 5px 0px;
+}
+.author-location {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-size: 13px;
+}
+
+.pagination {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.pagination ul {
+    list-style-type: none;
+}
+
+.pagination ul li {
+    display: inline-block;
+}
+
+.pagination ul .active a {
+    background: rgb(94, 94, 94);
+    color: #fff;
+}
+
+.pagination ul li a {
+    text-decoration: none;
+    font-weight: 500;
+    display: flex;
+    box-shadow: inset 0 0 5px #b6b6b6;
+    padding: 10px 15px;
+    color: #000;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(170, 170, 170);
+    margin-right: 10px;
+    background: rgb(228, 228, 228);
+}
