@@ -1,3 +1,14 @@
+// To Start Running
+// In terminal type
+// node bot.js
+// Enter the walking code for the bot
+// Example Code:
+// W5RW5RW2RW1R
+// RRW11RLLW19RRW12LW1
+// LLLLLW99RRRRRW88LLLRL
+// LLW100W50RW200W10
+// W55555RW555555W444444W1
+
 let x = 0;
 let y = 0;
 let facePosition = "North";
