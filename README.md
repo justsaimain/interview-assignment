@@ -1,7 +1,5 @@
 # Interview Assignment from Venus Lab
 
----
-
 I have finished all the tests from the attached file of the Mail. And the completed files are in this Repo.
 
 ### Question 1 : Recreate the refrence image in HTML and CSS
