@@ -15,7 +15,7 @@ There is only one file for this answer. `bot.js`
 
 Test Data:
 
--   RW15RW1:
+-   RW15RW1
 -   W5RW5RW2RW1R
 -   RRW11RLLW19RRW12LW1
 -   LLW100W50RW200W10
